@@ -1,0 +1,4 @@
+
+Le but de ce mini fichier est de lire un tt petit fichier text
+utilisant le language python
+
